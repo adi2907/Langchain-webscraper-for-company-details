@@ -18,3 +18,5 @@ You can change the company_name = "Royal Engineering Works" value to get the act
 1. Founded when
 2. Geographic locations
 3. Products and services
+
+Still blows my mind that it takes a few lines of code and maybe an hour to implement lead research, something that took quite a bit of time and inaccuracies before LLMs came into the scene
