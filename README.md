@@ -13,6 +13,8 @@ Steps to implement
     g. langchain-community
 3. Run python3 llm_browsing.py
 
+In addition you will need the api key from Serp https://serpapi.com/ for google search  and openai API key to interpret the results from the website
+
 You can change the company_name = "Royal Engineering Works" value to get the actual value for 
 
 1. Founded when
